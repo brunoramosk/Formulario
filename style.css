@@ -1,38 +1,47 @@
-
-
-fieldset#formulario
-{
-    width: 450px;
-    margin: auto;
-    font-size: small;
-    font-family: 'Sedgwick Ave', cursive;
-    color: silver;
-    border-width: thick;
-    border-color: goldenrod;
-    border-style: double;
-    border-radius: 20px;
-
-}
-body
-{
-    background-image: url(https://i.pinimg.com/736x/d1/3f/0d/d13f0d960721df18d2e15e30b5b3cd1c.jpg);
-    background-size: 500px;
-    background-position: center;
-    background-repeat:repeat;
-    
+#inicio {
+  position: relative;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 10px;
+  border-color: goldenrod;
+  border-style: solid;
+  border-width: 1px;
+  width: 285px;
+  padding: 15px;
+  color: rgb(197, 197, 197);
+  top: 230px;
+  left: 55px;
 }
 
-fieldset#mensagem
-{
-    
-    width: 450px;
-    margin: auto;
-    font-size: small;
-    font-family: 'Sedgwick Ave', cursive;
-    color: silver;
-    top: auto;
-    border-width: thick;
-    border-color: goldenrod;
-    border-style: double;
-    border-radius: 20px;
+fieldset#formulario {
+  width: 450px;
+  margin: auto;
+  font-size: small;
+  font-family: "Sedgwick Ave", cursive;
+  color: silver;
+  border-width: thick;
+  border-color: goldenrod;
+  border-style: double;
+  border-radius: 20px;
+  text-align: center;
+}
+body {
+  background-color: rgb(28, 28, 28);
+  background-size: 450px;
+  background-position: center;
+  background-repeat: repeat;
+}
+
+fieldset#mensagem {
+  width: 450px;
+  margin: auto;
+  font-size: small;
+  text-align: center;
+  font-family: "Sedgwick Ave", cursive;
+  color: silver;
+  top: auto;
+  border-width: thick;
+  border-color: goldenrod;
+  border-style: double;
+  border-radius: 20px;
 }

@@ -7,11 +7,13 @@
 <title>Cadastro de Alunos</title>
 <link rel="stylesheet" href="style.css">
 <script src="javascript.js"></script>
-<center> <i><font color="darkgoldenrod" size="8px"><b>Cadastro de Aluno</b></center></font>
 </head>
 <body>
-<form>
-<fieldset id="formulario"><p>
+    <form>
+        <h1 id="inicio">
+            - Formulário para cadastro de alunos. <p>
+            - Criação de usuário, seleção do usuário, Informações abaixo. </h1>    
+        <fieldset id="formulario"><p>
 <p>Nome Completo: <input type="text" size="10" id="usuario" placeholder="seu Nome.."><p> 
 <button onclick="criarUsuario()" type="button">Criar Usuario</button><br><br>
 <span id="lista">Lista de Cadastros:</span><br>
@@ -24,12 +26,13 @@ Selecione o Aluno <select id="selecione"></select>
 <p>Nota Final: <input type="text" size="1" id="nota" placeholder="0 á 10.."><p>
 <p>Cidade: <input type="text" size="10" name="tCidade" id="cidade" placeholder="Cidade"><p>
 <p>Email: <input type="email" id="email" placeholder="seu Email.."><p>
-<button onclick="envia()" type="button">Enviar Dados</button><input type="reset" value="Limpar Dados"/>
+<button onclick="envia()" type="button">Enviar Dados</button>
 </fieldset>
 </form>
 <div>    
 <fieldset id ="mensagem"><p>
 <span id="saida">Dados dos Alunos:</span><br>
+
 
 </div>
 </form>
