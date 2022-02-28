@@ -1,7 +1,8 @@
 <h2><i>💻 { Front-End } HTML5 - CSS3 - JavaScript <br></i></h2><hr>
 
 <div class="imagem">
-  <img src="src/formulario.jpg">
+  <img src="src/formulario.jpg" width="400px" height="400px">
+  </div>
 
 
 
