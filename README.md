@@ -1,7 +1,7 @@
 <h2><i>💻 { Front-End } HTML5 - CSS3 - JavaScript <br></i></h2><hr>
 
 <div class="imagem">
-  <img src="src/formulario.jpg" width="400px" height="400px">
+  <img src="file:///C:/Users/Bkrug/OneDrive/%C3%81rea%20de%20Trabalho/Projetos/Formul%C3%A1rio%20Easy/src/formulario.jpg.png" width="400px" height="400px">
   </div>
 
 
