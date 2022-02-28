@@ -1,7 +1,9 @@
-<h2><i>💻 { Front-End } <br></i></h2><hr>
-⚙ HTML<br>
-⚙ CSS<br>
-⚙ JavaScript<br><hr>
+<h2><i>💻 { Front-End } HTML5 - CSS3 - JavaScript <br></i></h2><hr>
+
+<div class="imagem">
+  <img src="src/formulario.jpg">
+
+
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoramosk&show_icons=true&theme=onedark">
